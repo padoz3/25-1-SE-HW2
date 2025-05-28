@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "typeinfo": "cpp",
+        "__locale": "cpp",
+        "locale": "cpp",
+        "vector": "cpp",
+        "tuple": "cpp",
+        "new": "cpp",
+        "algorithm": "cpp"
+    }
+}
